@@ -1,2 +1,4 @@
 tes 
 1.taks 1
+2.taks 2
+3.taks 3
